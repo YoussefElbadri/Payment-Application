@@ -4,4 +4,4 @@ This project is a payement machine that runs throught the terminal of the IDE. T
 1- Card
 2- Terminal
 3- Server
-4- Machine
+4- Application
